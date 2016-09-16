@@ -12,7 +12,7 @@
 ## 4 CRS
 
 
-![CRS Screenshot](/CRSScreenshot.png)
+![CRS Screenshot](/CRS Screenshot.png)
 
 
 * Select the settings tab , then select options
