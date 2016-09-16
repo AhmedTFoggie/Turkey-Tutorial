@@ -10,6 +10,11 @@
 
 ## 3 Open QGIS and set up a new project.
 ## 4 CRS
+
+
+![CRS Screenshot](/CRSScreenshot.png)
+
+
 * Select the settings tab , then select options
 * In the new window select CRS on the side of the window
 * Enable on the fly
