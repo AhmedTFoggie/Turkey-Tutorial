@@ -30,7 +30,9 @@
 * Press OK
 
 ## 6 Repeat steps for TUR_admin1.shp
-[Layers Screenshot](/Layers Screenshot.png)
+
+![Layers Screenshot](/Layers Screenshot.png)
+
 ## 7 Add the TUR_roads layer
 * Right click on the layer in the layer panel
 * Go to Properties the select the style tab
